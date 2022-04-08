@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ByvaltsevNS
+- 👋 Hi, I’m Nikolai Byvaltsev
 - 👀 I’m interested in Linux, Java, Spring 
 - 🌱 I’m currently learning creating Java Spring Boot RESTful web apps
 - 📫 CS bachelor, currently studying for a master's degree
