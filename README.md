@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Nikolai Byvaltsev
 - 👀 I’m interested in Linux, Java, Spring 
 - 🌱 I’m currently learning creating Java Spring Boot RESTful web apps
-- 📫 CS bachelor, currently studying for a master's degree
+- 📫 CS master, ETU
 
 <!---
 ByvaltsevNS/ByvaltsevNS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
